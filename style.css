@@ -1,0 +1,27 @@
+h1{
+    color: rgba(251, 100, 100, 0.596);
+    text-align: center;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+
+h2,p,li{
+    text-align: center;
+}
+
+#pic{
+margin-left: 5000;
+}
